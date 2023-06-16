@@ -1,0 +1,29 @@
+{
+    "branches": "/branches",
+    "commits": {
+        "commits": "/commits",
+        "commitComments": "/comments"
+    },
+    "issues": {
+        "issues": "/issues",
+        "assignees": "/assignees",
+        "issuesComments": "/issues/comments",
+        "issuesEvents": "/issues/events",
+        "issuesLabels": "/labels",
+        "issuesMilestones": "/milestones"
+    },
+    "metrics": {
+        "profile": "/community/profile",
+        "codeFrequency": "/stats/code_frequency",
+        "commitActivity": "/stats/commit_activity",
+        "contributors": "/stats/contributors",
+        "trafficClones": "/traffic/clones",
+        "trafficViews": "/traffic/views",
+        "authors": "/import/authors"
+    },
+    "pages": "/pages",
+    "pulls": {
+        "pulls": "/pulls",
+        "assignees": "/pulls/comments"
+    }
+}
